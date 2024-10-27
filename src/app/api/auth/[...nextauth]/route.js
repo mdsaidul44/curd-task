@@ -1,4 +1,4 @@
-import NextAuth from "next-auth/next";
+import NextAuth from "next-auth/react";
 import CredentialsProvider from "next-auth/providers/credentials";
 
 
